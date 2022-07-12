@@ -1,4 +1,4 @@
-# Data Institute 2021
+# Data Institute 2022
 For students of https://projects.propublica.org/graphics/ida-propublica-data-institute
 
 ## What you'll need installed
