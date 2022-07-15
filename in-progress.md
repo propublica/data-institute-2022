@@ -53,7 +53,7 @@ Monday, July 12
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/loading-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
 
-<a href="https://propublica.s3.amazonaws.com/data-institute/best-practices.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
+<a href="http://propublica.s3.amazonaws.com/projects/datainstitute/best-practices-sc-copy.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
 
 **Exercises**
 - Learning how to sort with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
