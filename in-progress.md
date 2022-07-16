@@ -47,7 +47,7 @@ Monday, July 12
 ### Intro to Data Journalism
 <a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-spreadsheets.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2022.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
 
 <a href="https://propublica.s3.amazonaws.com/data-institute/finding-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
 
