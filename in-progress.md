@@ -55,8 +55,7 @@ Monday, July 18
 
 <a href="http://propublica.s3.amazonaws.com/projects/datainstitute/best-practices-sc-copy.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
 
-**Exercises**
-- Learning how to sort with small claims data.
+**Resources**
 - String Functions: We combined street, city and state into one address using the <a href="https://productivityspot.com/concatenate-in-google-sheets/">Ampersand operator</a> and the <a href="https://support.google.com/docs/answer/3094219?hl=en">UPPER</a> function in google sheets. <a href="https://docs.google.com/document/d/1-0YLKi1b2jZCGbGx_JocLlkzMmzllPQC4zNJgrkEMCo/edit?usp=sharing">Here</a> is a writeup of the formula we used.
 - <a href="https://medium.com/analytics-vidhya/harnessing-the-power-of-pivot-tables-in-google-sheets-eea6e0b9bbee">Pivot Tables</a> to summarize your data
 
@@ -76,7 +75,6 @@ Tuesday, July 19
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
 
 **Exercises**
-- Evaluating data with [PPP loan applications](https://docs.google.com/spreadsheets/d/1FMktt0503CZqShEfsm2z8m1AiVZmyrIgfzqkTgeFTJU/edit?usp=sharing)
 - Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
 
 **Resources**
