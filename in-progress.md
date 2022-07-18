@@ -45,7 +45,7 @@ We won't be teaching these tools during class, but we highly recommend them and 
 Monday, July 18
 
 ### Intro to Data Journalism
-<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data-journalism.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
 
 <a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2022.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
 
