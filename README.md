@@ -1,6 +1,26 @@
 # Data Institute 2022
 For students of https://projects.propublica.org/graphics/ida-propublica-data-institute
 
+# Curriculum
+
+## Day 1
+Monday, July 18
+
+### Intro to Data Journalism
+<a href="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-data.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/Intro-to-spreadsheets-2022.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/intro-to-spreadsheets.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/projects/datainstitute/finding-data-sc-copy.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/finding-data.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/loading-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/loading-data.jpg"></a>
+
+<a href="http://propublica.s3.amazonaws.com/projects/datainstitute/best-practices-sc-copy.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
+
+**Resources**
+- Function to search text: We looked for a certain phrase in text using the <a href="">REGEXMATCH</a> function in google sheets. <a href="https://docs.google.com/document/d/1aTL9AZe2kw4ZG-emkoZ9RbjXIcrn7bjdWACuywV77_c/edit?usp=sharing">Here</a> is a writeup of the formula we used.
+- <a href="https://medium.com/analytics-vidhya/harnessing-the-power-of-pivot-tables-in-google-sheets-eea6e0b9bbee">Pivot Tables</a> to summarize your data
+
 ## What you'll need installed
 
 Before class begins on Monday, you'll need to have signed up for the following accounts, and installed the following software on your computer.
