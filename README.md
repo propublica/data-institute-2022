@@ -18,8 +18,8 @@ Monday, July 18
 <a href="http://propublica.s3.amazonaws.com/projects/datainstitute/best-practices-sc-copy.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/best-practices.jpg"></a>
 
 **Resources**
-- Function to search text: We looked for a certain phrase in text using the REGEXMATCH function in google sheets. <a href="https://docs.google.com/document/d/1aTL9AZe2kw4ZG-emkoZ9RbjXIcrn7bjdWACuywV77_c/edit?usp=sharing">Here</a> is a writeup of the formula we used.
-- <a href="https://medium.com/analytics-vidhya/harnessing-the-power-of-pivot-tables-in-google-sheets-eea6e0b9bbee">Pivot Tables</a> to summarize your data
+In our "advanced spreadsheets" section, we talked about splitting text to columns, making pivot tables, and using formulas. <a href="https://docs.google.com/document/d/1aTL9AZe2kw4ZG-emkoZ9RbjXIcrn7bjdWACuywV77_c/edit?usp=sharing">Here</a> is a writeup of what we did, with links to other online resources.
+
 
 <hr>
 
