@@ -3,6 +3,30 @@ For students of https://projects.propublica.org/graphics/ida-propublica-data-ins
 
 # Curriculum
 
+## Day 2
+Tuesday, July 19
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
+
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
+
+<a href="https://propublica.s3.amazonaws.com/data-institute/analyzing-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/analyzing-data.jpg"></a>
+
+**Exercises**
+
+(If there's time an interest)
+- Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
+
+**Resources**
+- [Numbers in the Newsroom: Using Math and Statistics in News](https://store.ire.org/products/numbers-in-the-newsroom-using-math-and-statistics-in-news-second-edition-e-version) by Sarah Cohen (You should have received a copy!)
+- [Precision Journalism: A Reporter's Introduction to Social Science Methods](https://www.amazon.com/Precision-Journalism-Reporters-Introduction-Science/dp/0742510883) by Philip Meyer
+- [Google Sheets Tutorials](https://training.npr.org/visual/what-to-do-with-a-big-pile-of-data/)
+- [Open Refine tutorial slides](https://projects.propublica.org/graphics/images/data-institute/presentations/2019/open-refine.pdf) (We don't have time to cover this tool in class, but it's a good one! It's helpful for cleaning messy data.)
+- [Tabula](https://tabula.technology/): [screencast demo](https://propublica.s3.amazonaws.com/data-institute/tabula_demo.mov) (We don't have time to cover this either, but it's also a great tool. Helps turn PDFs into spreadsheets.)
+
+**No Homework!**
+
+
 ## Day 1
 Monday, July 18
 
