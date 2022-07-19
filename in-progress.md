@@ -172,12 +172,13 @@ Only for those of you who have time and are looking for an extra challenge. This
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file. When you're done, send me your files or send me the links of your files on Github and I'll give you feedback on how it went!</li>
 </ul>
 
-**Review**  
-- Making a Website with Cards ♠️
+### Scraping and tracking without code
 
-
-
-
+**In-Class Demos**
+<ul>
+  <li><a href="https://visualping.io/">Visualping.io</a></li>
+  <li><a href="https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en">Web scraper Chrome extension</a></li>
+</ul>
 
 ### For pasting at the top later: 
 
