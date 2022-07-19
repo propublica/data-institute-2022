@@ -8,8 +8,6 @@ Tuesday, July 19
 
 <a href="https://propublica.s3.amazonaws.com/projects/datainstitute/evaluating-data-2022.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
-
 <a href="https://propublica.s3.amazonaws.com/data-institute/analyzing-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/analyzing-data.jpg"></a>
 
 **Exercises**
