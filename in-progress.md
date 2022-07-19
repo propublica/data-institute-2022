@@ -177,7 +177,8 @@ Only for those of you who have time and are looking for an extra challenge. This
 **In-Class Demos**
 <ul>
   <li><a href="https://visualping.io/">Visualping.io</a></li>
-  <li><a href="https://chrome.google.com/webstore/detail/web-scraper-free-web-scra/jnhgnonknehpejjnehehllkliplmbmhn?hl=en">Web scraper Chrome extension</a></li>
+  <li>Using Google Sheet's <a href="https://www.lido.app/tutorials/google-sheets-import-functions">import</a> functions, specifically, `importHTML`</li>
+  <li><a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en">Scraper Chrome Extension</a></li>
 </ul>
 
 ### For pasting at the top later: 
