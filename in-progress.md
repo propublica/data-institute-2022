@@ -10,19 +10,15 @@ Here's everything we had last year:
 ## Day 2
 Tuesday, July 19
 
-### Analyzing Data
-
 <a href="https://propublica.s3.amazonaws.com/data-institute/evaluating-data.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/evaluating-data.jpg"></a>
 
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/data-integrity.jpg"></a>
 
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/one-var.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/two-vars.jpg"></a>
-
-<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.pdf"><img width="300" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2019/analysis-grab-bag.jpg"></a>
+<a href="https://propublica.s3.amazonaws.com/data-institute/analyzing-data.pdf"><img width="300" src="https://propublica.s3.amazonaws.com/data-institute/analyzing-data.jpg"></a>
 
 **Exercises**
+
+(If there's time an interest)
 - Analyzing one variable with [school reportcards](https://docs.google.com/spreadsheets/d/1t6xnKivbM1l67vCWj4Aw_ickHmYG9yJmSliByMUlCoY/edit?usp=sharing)
 
 **Resources**
@@ -35,7 +31,7 @@ Tuesday, July 19
 **No Homework!**
 
 ## Day 3
-Wednesday, July 14
+Wednesday, July 20
 
 ### Intro to Design
 <p>
@@ -98,7 +94,7 @@ Wednesday, July 14
 
 
 # Day 4
-Thursday, July 15
+Thursday, July 21
 
 ### Intro to Code
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
@@ -142,7 +138,7 @@ Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this
 
 
 ## Day 5
-Friday, July 16
+Friday, July 22
 
 ### Basic CSS
 
