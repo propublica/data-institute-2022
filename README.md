@@ -3,6 +3,51 @@ For students of https://projects.propublica.org/graphics/ida-propublica-data-ins
 
 # Curriculum
 
+# Day 3
+Wednesday, July 20
+
+### Intro to Code
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
+
+**In-Class Demos**
+- What coding languages have you heard of?
+- Using the web inspector
+
+### How Websites Work
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/how-websites-work.jpg"></a>
+
+**In-Class Demos**
+- How the Internet passes websites around
+- What HTML, CSS and Javascript contribute to a webpage
+
+### HTML
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/html.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/html.jpg"></a>
+
+**In-Class Demos**
+- How to create your first HTML file
+- Shortcut to the basic HTML template
+- How to use:
+  - `<h1>`
+  - `<h2>`
+  - `<h3>`
+  - `<p>`
+  - `<img>`
+  - `<a>`
+  - `<ul>`
+
+**Exercises**
+<ul>
+  <li>Can you fix this <a href="https://codepen.io/sisiwei/pen/PNvaeB?editors=1000">broken code</a>? </li>
+</ul>
+
+### Basic CSS
+<a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
+
+### Optional Homework
+Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
+
+
+
 ## Day 2
 Tuesday, July 19
 
