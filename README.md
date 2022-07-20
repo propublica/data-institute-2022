@@ -10,7 +10,7 @@ Wednesday, July 20
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/intro-to-code.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/intro-to-code.jpg"></a>
 
 **In-Class Demos**
-- What coding languages have you heard of?
+- [What coding languages have you heard of?](https://etherpad.opennews.org/p/2022-data-institute-programming-languages)
 - Using the web inspector
 
 ### How Websites Work
