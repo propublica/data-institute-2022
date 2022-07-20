@@ -31,9 +31,11 @@ Wednesday, July 20
   - `<h2>`
   - `<h3>`
   - `<p>`
+- Let's look up together:
   - `<img>`
   - `<a>`
-  - `<ul>`
+- Can you figure out:
+  - How do you make a bulleted list?
 
 **Exercises**
 <ul>
