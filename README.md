@@ -107,6 +107,12 @@ Wednesday, July 20
 ### Basic CSS
 <a href="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.pdf"><img width="500" src="https://projects.propublica.org/graphics/images/data-institute/presentations/2017/css.jpg"></a>
 
+**In-Class Demos**
+
+- How to create your first CSS file
+- Shortcut to linking to your CSS file
+- How CSS styles work
+
 ### Optional Homework
 Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">this code</a> and follow the instructions inside to format the page.
 
