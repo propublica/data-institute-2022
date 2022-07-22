@@ -57,14 +57,17 @@ Only for those of you who have time and are looking for an extra challenge. This
   <li>Save <a href="https://codepen.io/sisiwei/pen/bpXwMB?editors=1000">this HTML</a> onto your computer. Link to a new CSS file that you create. Write CSS to make the end result look like <a href="http://projects.propublica.org/graphics/images/data-institute/presentations/mars.jpg">this image</a>. You may only write CSS. You cannot edit the HTML file. When you're done, send me your files or send me the links of your files on Github and I'll give you feedback on how it went!</li>
 </ul>
 
-### Scraping and tracking without code
+### Scraping and tracking
 
-**In-Class Demos**
+**Without Code In-Class Demos**
 <ul>
   <li><a href="https://visualping.io/">Visualping.io</a></li>
   <li>Using Google Sheet's <a href="https://www.lido.app/tutorials/google-sheets-import-functions">import</a> functions, specifically, "importHTML"</li>
   <li><a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en">Scraper Chrome Extension</a></li>
 </ul>
+
+**With Code Resource**
+[First Web Scraper](https://first-web-scraper.readthedocs.io/en/latest/) — this step-by-step tutorial covers not only how to write your own web scraper from scratch in Python, but how to install Python, how to write basic code (that you'll use to build your scraper) and also how to actually build the final scraper.
 
 ## Day 4
 Thursday, July 21
