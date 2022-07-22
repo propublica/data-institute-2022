@@ -10,6 +10,7 @@ Friday, July 22
 
 **Exercises**
 <ul>
+  <li>Inspecting <a href="https://sisiwei.com/">Sisi's website!</a>, view source</li>
   <li>Warm up:</li>
     <ul>
       <li>Using your practice HTML file from before, add CSS styles to it such you change the:
