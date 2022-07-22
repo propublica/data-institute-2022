@@ -28,8 +28,8 @@ Friday, July 22
      </ul>
     </li>
   </ul>
-  <li>HTML exercise: Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">the code on this page</a> into a file called `supreme-court.html` on your computer and follow the instructions inside to format the page.</li>
-  <li>CSS exercise: Now that your Supreme Court article has HTML, make a new `style.css` file, link it up to your HTML, and try to do the following:</li>
+	<li><b>HTML exercise:</b> Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">the code on this page</a> into a file called `supreme-court.html` on your computer and follow the instructions inside to format the page.</li>
+	<li><b>CSS exercise:</b> Now that your Supreme Court article has HTML, make a new `style.css` file, link it up to your HTML, and try to do the following:</li>
     <ul>
       <li>Make the main headline dark red.</li>
       <li>Use the font family "Georgia" for the main headline and the subheadline.</li>
