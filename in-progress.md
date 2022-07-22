@@ -11,38 +11,32 @@ Here's everything we had last year:
 ## Day 4 MOVED.
 
 
-
-
-
 ## Day 5
 Friday, July 22
 
-### Basic CSS
-
-**In-Class Demos**
-<ul>
-  <li>How to create your first CSS file</li>
-  <li>Shortcut to linking to your CSS file</li>
-  <li>How CSS styles work</li>
-</ul>
+### HTML + CSS Review
 
 **Exercises**
 <ul>
-  <li>Using your practice HTML file from before, add CSS styles to it such you change the:
+  <li>Warm up:</li>
     <ul>
-      <li>color</li>
-      <li>font-family</li>
-      <li>font-size</li>
-    </ul>
-  </li>
-  <li>On your own, look up how to do the following in CSS, and add it to your HTML file as well:
-    <ul>
-      <li>underline text</li>
-      <li>bold text</li>
-      <li>italicize text</li>
-    </ul>
-  </li>
-  <li>Going back to the Supreme Court article you formatted earlier, do the following using CSS:
+      <li>Using your practice HTML file from before, add CSS styles to it such you change the:
+        <ul>
+          <li>color</li>
+         <li>font-family</li>
+          <li>font-size</li>
+        </ul>
+      </li>
+    <li>On your own, look up how to do the following in CSS, and add it to your HTML file as well:
+      <ul>
+        <li>underline text</li>
+        <li>bold text</li>
+        <li>italicize text</li>
+     </ul>
+    </li>
+  </ul>
+  <li>HTML exercise: Copy and paste <a href="https://codepen.io/sisiwei/pen/KzLezJ?editors=1000">the code on this page</a> into a file called `supreme-court.html` on your computer and follow the instructions inside to format the page.</li>
+  <li>CSS exercise: Now that your Supreme Court article has HTML, make a new `style.css` file, link it up to your HTML, and try to do the following:</li>
     <ul>
       <li>Make the main headline dark red.</li>
       <li>Use the font family "Georgia" for the main headline and the subheadline.</li>
@@ -59,11 +53,12 @@ Friday, July 22
 
 **In-Class Demos**
 <ul>
+  <li>Commenting in HTML and CSS</li>
   <li>How to write your own CSS Class</li>
   <li>How CSS deals with conflict</li>
 </ul>
 
-### Optional Homework
+### Optional Homework (It's a challenge!)
 
 Only for those of you who have time and are looking for an extra challenge. This is 100% optional because we will not be talking about this in class tomorrow. Instead, if you do it, I'll give you an individual response via email or Slack.
 <ul>
