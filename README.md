@@ -67,8 +67,8 @@ Only for those of you who have time and are looking for an extra challenge. This
   <li><a href="https://chrome.google.com/webstore/detail/scraper/mbigbapnjcgaffohmbkdlecaccepngjd?hl=en">Scraper Chrome Extension</a></li>
 </ul>
 
-**With Code Resource**
-[First Web Scraper](https://first-web-scraper.readthedocs.io/en/latest/) — this step-by-step tutorial covers not only how to write your own web scraper from scratch in Python, but how to install Python, how to write basic code (that you'll use to build your scraper) and also how to actually build the final scraper.
+**Resource for learning on your own**
+* [First Web Scraper](https://first-web-scraper.readthedocs.io/en/latest/) — this step-by-step tutorial covers not only how to write your own web scraper from scratch in Python, but how to install Python, how to write basic code (that you'll use to build your scraper) and also how to actually build the final scraper. I highly recommend that coordinate with someone else who is interested in learning, so you can work on it together. To give you a sense of how long it takes, during the 2-week Data Institute we spend 2 entire days going through this tutorial. So there's no need to rush!
 
 ## Day 4
 Thursday, July 21
